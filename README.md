@@ -22,3 +22,7 @@ Página de Cadastro: Habilita novos usuários a se registrarem no sistema.
 Página de Produtos: Exibe e gerencia a lista de produtos da franquia.
 
 Este trabalho demonstrou a aplicação prática de conceitos de desenvolvimento web Full Stack e banco de dados em um cenário de negócio real.
+
+Abaixo deixo um link de video de treinamento onde mostramos o projeto ja finalizado.
+
+<li>https://youtu.be/fspb_VOBzqQ</li>
