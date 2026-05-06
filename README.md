@@ -45,7 +45,7 @@ Abaixo você pode conferir o vídeo de apresentação e treinamento onde mostram
 
 <div align="center">
   <a href="https://youtu.be/fspb_VOBzqQ" target="_blank">
-    <img src="https://img.youtube.com/vi/fspb_VOBzqQ/maxresdefault.jpg" alt="Demonstração do Projeto Cacau Show" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://img.youtube.com/vi/fspb_VOBzqQ/0.jpg" alt="Demonstração do Projeto Cacau Show" width="600">
   </a>
   <br>
   <i>(Clique na imagem para assistir ao vídeo no YouTube)</i>
